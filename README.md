@@ -1,1 +1,1 @@
-# data
+# inventory and sales analysis of data
